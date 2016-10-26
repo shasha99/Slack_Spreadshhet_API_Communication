@@ -1,0 +1,11 @@
+c:\users\shasha\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\shasha\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\shasha\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\shasha\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\shasha\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\Google.GData.Apps.dll
+C:\Users\shasha\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\Google.GData.Client.dll
+C:\Users\shasha\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\Google.GData.Extensions.dll
+C:\Users\shasha\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\Google.GData.Spreadsheets.dll
+C:\Users\shasha\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\shasha\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\shasha\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
